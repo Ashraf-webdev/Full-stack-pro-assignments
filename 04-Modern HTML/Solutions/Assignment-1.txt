@@ -1,0 +1,15 @@
+
+1. List out the features of HTML 5?
+
+Ans: Some of the main features of HTML5 are as follows -
+
+      a. Semantic Elements: HTML5 introduced new tags like <header>, <nav>, <footer>, and <article> that make it
+         easier to structure web content, helping search engines and screen readers understand the page better.
+      b. Improved Multimedia support: HTML5 provides native support for audio and video playback without needing 
+         plugins like Flash. You can embed audio and video directly using <audio> and <video> tags. 
+      c. Responsive Design: HTML5 supports responsive web design, making it easier to create websites that adapt and
+         look good on various screen sizes, from smartphones to desktops.
+      d. Form Improvements: HTML5 introduced new input types like <email>, <url>, and <date>, making it easier to 
+         create user-friendly forms for things like email addresses, URLs, and dates.
+      e. Cross-platform Compatibility: HTML5 is designed to work consistently across different browsers and devices, 
+         reducing compatibility issues.

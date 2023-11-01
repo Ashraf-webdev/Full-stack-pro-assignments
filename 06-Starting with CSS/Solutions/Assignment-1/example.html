@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">   
+    <title>Example</title>
+      
+    <!-- Internal CSS -->
+    <style>
+        .example {
+            color: #ffffff;
+            padding: 30px;
+            background-color: #000000;
+            font-size: 30px;
+        }
+    </style>
+
+    <!-- External CSS -->
+    <link rel="stylesheet" href="example.css">
+
+</head>
+<body>
+     <!-- When we target the same elements with inline, internal, and external CSS, the cascading nature of CSS rules comes into play. -->
+
+     <h1> Example </h1>
+
+     <div class="example" style="color:#ffffff; font-size: 20px; padding: 10px; background-color: #4bf707;">
+        Lorem ipsum dolor sit amet.
+     </div>
+    
+    <!-- 
+    => Inline styles have the highest specificity and override  internal and external styles.
+ 
+     => Internal styles have medium specificity and override external styles but are overridden by inline styles.
+ 
+     => External styles have the lowest specificity and are overridden by both inline and internal styles. -->
+     
+</body>
+</html>
