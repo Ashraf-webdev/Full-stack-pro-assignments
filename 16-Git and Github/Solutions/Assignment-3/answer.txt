@@ -16,5 +16,3 @@ Ans: .gitignore is like a "do not include" list for files in your project. It te
      4. Collaboration: It ensures that collaborators don't accidentally commit irrelevant files, improving teamwork.
 
      5. Consistency: .gitignore helps maintain a clean, consistent project structure by excluding unnecessary files and directories.
-
-

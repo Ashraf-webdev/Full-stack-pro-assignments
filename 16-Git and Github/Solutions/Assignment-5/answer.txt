@@ -45,17 +45,3 @@ Ans: Contributing to an open-source project on GitHub is a rewarding way to coll
 
 
    Be patient, respectful, and willing to improve your skills through the feedback and experiences of the open-source community.
-
-
-
-
-
-
-
-
-
-
-
-
-
-

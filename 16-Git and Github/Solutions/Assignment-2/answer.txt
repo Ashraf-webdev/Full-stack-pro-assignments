@@ -13,4 +13,3 @@ Ans: The Git Workflow involves three key components: the working directery, sata
      3. Repository: This is where all your committed snapshots are stored, forming a complete history of your project. Think of it as an album containing
         all the photos you've taken of your playground over time. It keeps track of your project's changes, making it possible to revisit any snapshot to 
         see what your project looked like at that moment.
-
