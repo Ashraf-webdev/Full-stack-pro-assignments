@@ -1,0 +1,16 @@
+Q2. Explain the Git Workflow, including the staging area, working directory, and repository?
+
+Ans: The Git Workflow involves three key components: the working directery, sataging area and repository.
+  
+     1. Working Directory: Working directory is your local project folder. This is where you create, edit, and delete files in your project.
+        Think of it as your local playground. It's where you make changes, add new features, and fix bugs. When you're satisfied with the changes,
+        you decide which ones you want to keep.
+
+     2. Staging Area:  The staging area is like a checkpoint before saving your changes permanently. Here, you choose which modifications should be
+        included in the next snapshot of your project's history (commit). It's as if you're putting specific items on a to-do list, saying, "I'm ready
+        to commit these changes."
+
+     3. Repository: This is where all your committed snapshots are stored, forming a complete history of your project. Think of it as an album containing
+        all the photos you've taken of your playground over time. It keeps track of your project's changes, making it possible to revisit any snapshot to 
+        see what your project looked like at that moment.
+

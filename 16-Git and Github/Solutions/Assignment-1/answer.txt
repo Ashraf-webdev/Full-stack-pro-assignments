@@ -1,0 +1,14 @@
+Q1. Explain what version control is and its importance in software development?
+
+Ans: Version control is like a super organized filing system for software. It tracks changes, stores different versions of files, and helps teams
+     collaborate. It's like having a history book for your project, making it easier to work on and fix mistakes.
+
+     The importance of Version Control
+
+    Tracking: Version control records all changes, so you can see what happened, who did it, and why. It's like a time machine for your code.
+
+    Collaboration: Teams can work together without stepping on each other's toes. Everyone can see what others are doing and merge changes smoothly.
+
+    Mistake Recovery: If something breaks, you can go back to a working version. It's like having a safety net for your project.
+
+    Experimentation: You can try new ideas without fear. If it doesn't work, you can always go back to the previous version.
