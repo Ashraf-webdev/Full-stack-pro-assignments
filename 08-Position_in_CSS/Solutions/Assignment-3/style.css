@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-height: 100vh;
+    max-width: 100%;
+    padding: 100px 50px;
+}
+
+.container .content-box {
+    padding-top: 40px;
+    float: left;
+    width:55%;
+}
+
+.content-box h1 {
+    margin-bottom: 30px;
+}
+
+.content-box p {
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.container .image-box {
+    text-align: right;
+    float: right;
+    width: 45%;
+}
+
+.image-box img {
+    width: 500px;
+}

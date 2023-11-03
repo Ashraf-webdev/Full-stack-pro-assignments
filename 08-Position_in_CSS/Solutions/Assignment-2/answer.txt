@@ -1,0 +1,22 @@
+Q2. Explain the difference between Absolute and Relative positioning.
+
+
+Solutions: Relative Positioning:
+           - Relative positioning means an element is positioned relative to its normal position on the web page.
+           - If you move an element with relative positioning, it will still affect the layout of other elements around it.  
+           - Imagine pushing a box on a table. The box will stay on the table, and other objects will make room for it 
+             as you push it around.
+           - It's like moving an object on a table while other objects on the table adjust around it.
+           - Elements stay in their normal spots, and the moved element doesn't float in space. 
+
+          Absolute Positioning:
+          - Absolute positioning means an element is positioned relative to its nearest positioned ancestor. If no 
+            ancestor is positioned, it's positioned relative to the whole page.
+          - When you move an element with absolute positioning, it's taken out of the normal flow of the page, and other
+            elements don't make room for it. It's like lifting a sticker off a piece of paper; the sticker doesn't affect
+            other parts of the paper.
+          - Elements with absolute positioning can overlap with other elements on the page.
+          - It's like lifting a sticker off a piece of paper and putting it anywhere you want.
+          - Elements don't make space for it, and it can overlap with other things on the page.
+
+

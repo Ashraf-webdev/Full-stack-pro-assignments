@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    padding: 15px;
+    background-color: #eae7e7;
+    height: 100vh;
+    gap: 20px;
+}
+
+.grid-container .box {
+    padding: 20px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+.grid-container .item1 {
+    background-color: #ff0000;
+    color: #fff;
+}
+.grid-container .item2 {
+    background-color: #008000;
+    color: #fff;
+}
+.grid-container .item3 {
+    background-color: #0000ff;
+    color: #fff;
+}
+.grid-container .item4 {
+    background-color: #ffa500;
+    color: #fff;
+}
+
+/* medea query start */
+
+@media screen and (max-width: 600px) {
+    .grid-container {
+        grid-template-columns: 1fr;
+    }
+}

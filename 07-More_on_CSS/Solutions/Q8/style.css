@@ -1,0 +1,12 @@
+* {
+    margin-left: 20px;
+}
+
+.heading {
+    font-size: 40px;
+}
+
+.list-item {
+    font-size: 20px;
+    font-weight: 500;
+}

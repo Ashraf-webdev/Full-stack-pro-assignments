@@ -1,0 +1,6 @@
+Ans: We have a grid container with a 3x2 grid structure defined using grid-template-columns and grid-template-rows. This means there are 3 columns and 2 rows.
+     grid-auto-rows and grid-auto-columns are used to set the default height and width for rows and columns created automatically within the grid. In this case,
+     both are set to 100px.
+
+     So, in this example, if you add more items to the grid container, they will automatically create new rows and columns with a height and width of 100px, 
+     maintaining a consistent layout.

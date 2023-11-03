@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(6, 150px);
+    width: 80vw;
+    padding: 50px;
+    grid-gap: 20px;
+}
+
+.container .box {
+    background-color: #000;
+    color: #fff;
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.container .box:nth-child(even) {
+    background-color: #ccc;
+    color: #000;
+}
+
+.container .box1 {
+    order: 7;
+}
+
+.container .box2 {
+    order: 8;
+}
+
+.container .box3 {
+    order: 1;
+}
+
+.container .box4 {
+    order: 2;
+}
+
+.container .box5 {
+    order: 3;
+}
+
+.container .box6 {
+    order: 4;
+}
+
+.container .box7 {
+    order: 5;
+}
+
+.container .box8 {
+    order: 6;
+}

@@ -1,0 +1,12 @@
+Ans: justify-items: It is a property that sets the alignment of all grid items within a grid container along the horizontal (main) axis.
+     It affects all the items inside the grid equally.
+
+     justify-self: It is a property that sets the horizontal (main) axis alignment of an individual grid item within a grid container.
+     It allows you to control the alignment of specific grid items differently.
+
+
+Code Example explaination: When using justify-items, all items in the grid container are center-aligned within their respective cells.
+                           When using justify-self on an individual item, only that specific item is right-aligned within its cell. The other
+                           items remain center-aligned due to the justify-items property applied to the container.
+
+So, justify-items affects all items uniformly within the grid container, while justify-self allows you to control the alignment of individual items differently.

@@ -1,0 +1,3 @@
+Solution: The var() function in CSS is like a placeholder for a value. Its main purpose is to make it easy to reuse and 
+          manage values across stylesheet, which can be especially helpful in keeping the code organized and making global
+          changes more efficiently.

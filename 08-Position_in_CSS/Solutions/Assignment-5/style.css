@@ -1,0 +1,20 @@
+.red-square {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: absolute;
+  top: 50px;
+  left: 80px;
+  z-index: 1; /* Red square is stacked behind the blue square */
+}
+
+.blue-square {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  z-index: 2; /* Blue square is stacked in front of the red square */
+}
+

@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    background-color: #000000;
+    height: 60px;
+    width: 100%;
+}
+
+.header .logo {
+    padding-left: 30px;
+}
+
+.header .logo h1 {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.header .menu{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding-right: 30px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.menu a:hover {
+    color: #58eb0e;
+}
+
+.menu .get-started-btn {
+    color: #e9e908;
+    padding: 10px 15px;
+    background-color: transparent;
+    border: 2px solid#e9e908;
+    border-radius: 10px;
+}
+
+#content-container {
+    padding-top: 120px;
+    padding-left: 30px;
+}
+
+#content-container div{
+    padding-bottom: 30px;
+}

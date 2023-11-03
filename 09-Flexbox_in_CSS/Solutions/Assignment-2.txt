@@ -1,0 +1,36 @@
+Q2. Explain the role of the following key properties in the flexbox layout model.
+    1. Justify content
+    2. align items
+    3. gap
+    4. flex-direction
+    5. flex-wrap
+
+
+Solution: 
+
+   1.Justify Content:
+   - It determines how the content inside a flex container should be distributed along the main axis.
+   - It controls the space between and around the items on the main axis.
+   - Values like "flex-start" make items start from the beginning of the container, "center" centers them, and "flex-end" puts them at the end.
+   - Useful for controlling horizontal alignment of items within a flex container.
+
+  2. Align Items:
+   - It controls how items inside a flex container should be aligned along the cross-axis (perpendicular to the main axis).
+   - It determines how items are aligned vertically within a flex container.
+   - Values like "flex-start" align items at the top, "center" centers them vertically, and "flex-end" aligns them at the bottom.
+   - Useful for controlling vertical alignment of items within a flex container.
+
+  3. Gap:
+   - It sets the space between flex items, both horizontally and vertically.
+   - It sets the distance between items in a flex container.
+   - You can specify a gap value for both the main and cross axes, making it easy to create spacing between items.
+
+  4. Flex-Direction:
+   - It defines the main axis along which flex items are laid out.
+   - It defines whether flex items should be placed horizontally ("row") or vertically ("column") within the flex container.
+   - "row" means items are in a single row from left to right, while "column" stacks them from top to bottom.
+
+  5. Flex-Wrap:
+   - It determines whether flex items should wrap to a new line if they overflow the container.
+   - It controls whether items stay in a single line or wrap to a new line when they don't fit horizontally.
+   - "nowrap" (default) keeps them in a single line, while "wrap" allows them to wrap to the next line as needed.
