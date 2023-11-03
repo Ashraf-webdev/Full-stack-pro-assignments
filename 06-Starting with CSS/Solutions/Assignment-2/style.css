@@ -1,0 +1,28 @@
+.main__heading {
+    color: red;
+}
+
+.main__subheading {
+    color: blue;
+}
+
+.hero__title {
+    color: green;
+}
+  
+.hero__description {
+    color: brown;
+}
+
+.btn {
+    background-color: #54fa54;
+}
+
+.hero__btn-primary {
+    background-color: purple;
+    color: wheat;
+}
+  
+.hero__btn-secondary {
+    background-color: pink;
+}

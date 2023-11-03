@@ -1,6 +1,9 @@
-.external-css {
-    color: #ffffff;
-    font-size: 20px;
-    background-color: #f90606;
-    padding: 10px;
-}
+style.css.external {
+    color: blue;
+    }
+    .int__external {
+    color: green;
+    }
+    .inline__internal__external {
+    color: bisque;
+    }

@@ -1,0 +1,19 @@
+.firstName {
+    background-color: red;
+}
+
+.lastName {
+    background-color: green;
+}
+
+.email {
+    background-color: yellow;
+}
+
+#terms:checked {
+    accent-color: violet;
+}
+
+button {
+    opacity: 50%;
+  }
