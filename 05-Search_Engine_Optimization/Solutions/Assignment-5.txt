@@ -1,0 +1,10 @@
+
+5. Define Favicon and give an illustrative example.
+
+Ans: A favicon is a small icon or image associated with a website that appears in the browser's tab or address bar, bookmarks, and
+     sometimes in search results. It helps users quickly identify and access a specific website.
+
+Example: 1. Google: When we open web browser and see a little "G" icon in a tab, that's the favicon for Google, 
+            helping us easily identify the website we're visiting.
+         2. Facebook: When we visit Facebook in our web browser, we'll see the lowercase "f" inside a blue square
+            as the favicon in the browser tab.

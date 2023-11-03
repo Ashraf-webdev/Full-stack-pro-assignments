@@ -1,0 +1,14 @@
+
+3. What are the Benefits of Using meta tags?
+
+Ans: Here are some Importance of SEO:
+     1. Website Branding: Meta tags, like the meta title, display your website's name prominently in search results, 
+        enhancing your brand's visibility and recognition
+     2. Social Media Sharing: Meta tags can control how your content appears when shared on social media platforms. They allow
+        you to specify the title, description, and image that accompany your links, making them more appealing to users.
+     3. Accessibility: Some meta tags, like meta charset, help ensure your website displays correctly in various browsers
+        and languages, making it accessible to a broader audience.
+     4. Search Engine Optimization: Meta tags, such as the meta title and meta description, help search engines understand and rank
+        your web page better. They contain relevant keywords and a brief summary that appear in search results, attracting more visitors.
+     5. Security :  Meta tags like the Content Security Policy (CSP) meta tag enhance the security of your website by controlling
+        which resources can be loaded, protecting against malicious code and attacks.

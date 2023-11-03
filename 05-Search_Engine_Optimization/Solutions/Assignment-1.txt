@@ -1,0 +1,13 @@
+1. What is SEO and explain the importance of SEO. 
+
+Ans: SEO stands for "Search Engine Optimization." It's a set of practices and techniques used to improve the visibility and 
+     ranking of a website or web page in search engine results, such as those on Google, Bing, or Yahoo. 
+         
+     Here are some Importance of SEO-
+     1. Traffic:  Being at the top of search results means more people visit your website. Good SEO can bring in a lot of
+        visitors who are interested in what you offer.
+     2. Credibility: Websites that appear at the top of search results are often seen as more trustworthy and reliable. People
+        tend to trust Google's recommendations.
+     3. User Experience: SEO is not just about keywords and links; it's also about making your website better for users. When you
+        improve your website for SEO, you're often making it more user-friendly too.
+     4. Competition: Most of your competitors are probably doing SEO. If you don't, you might lose potential customers to them. 
