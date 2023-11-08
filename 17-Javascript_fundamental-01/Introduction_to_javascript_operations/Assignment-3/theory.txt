@@ -1,0 +1,29 @@
+Q3. Differentiate between unary, binary, and ternary operators in JavaScript. Give examples of each.
+
+
+Ans: In JavaScript, operators are categorized into unary, binary, and ternary operators based on the number of operands they work with:
+
+  1. Unary Operators:
+
+  Functionality: Unary operators work with a single operand, meaning they operate on a single value. They can perform various operations
+  on that one value.
+
+  2. Binary Operators:
+
+  Functionality: Binary operators require two operands, one on the left and one on the right, to perform an operation that combines or
+  compares these two values.
+
+  3. Ternary Operator:
+
+  Functionality: The ternary operator is unique in that it's the only operator in JavaScript that takes three operands. It's used for
+  creating conditional expressions that result in one of two values based on a condition.
+
+
+  NOTE: "Examples are contained within the code file."
+
+
+
+
+
+
+

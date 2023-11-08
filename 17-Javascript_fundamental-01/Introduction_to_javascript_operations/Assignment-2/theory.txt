@@ -1,0 +1,54 @@
+2. Describe the categorization of operators in JavaScript based on their functionality. Provide examples for each category.
+
+Ans: Operators in JavaScript are categorized based on their functionality into several groups, each designed for specific purposes.
+
+Here are the main categories of operators:
+
+  1. Arithmetic Operators: Arithmetic operators are used for mathematical calculations.
+  
+  2. Comparison Operators: Comparison operators compare two values and return a Boolean (true or false) result.
+
+  3. Logical Operators: Logical operators are used to combine or manipulate Boolean values.
+
+  4. Assignment Operators: Assignment operators are used to assign values to variables.
+
+  5. Unary Operators: Unary operators work with a single operand and perform various operations.
+
+  6. Ternary Operator: The ternary operator is a short way to write simple conditional statements.
+
+  7. Bitwise Operators: Bitwise operators manipulate the binary representation of numbers.
+
+
+These operator categories are the building blocks of JavaScript, allowing you to perform a wide range of operations and control flow within your code.
+
+NOTE: "Example of each category are contained within the code file."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

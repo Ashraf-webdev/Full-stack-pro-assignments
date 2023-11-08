@@ -1,0 +1,33 @@
+Question 2: Explain the key differences between JavaScript and HTML. Provide examples of situations where you would use each.
+
+Ans: JavaScript and HTML are both important for building web pages, but they serve different purposes:
+
+HTML:
+
+     1. Structure: HTML is like the blueprint of a web page. It defines the structure and layout of the content.
+
+     Example: We use HTML to create headings, paragraphs, lists, and organize the content on a webpage. For instance, `<h1>` for
+     the main title, <p> for paragraphs, and <ul> for an unordered list.
+
+     2. Static Content: HTML is mainly for displaying fixed information that doesn't change unless the page is reloaded.
+
+     Example: An "About Us" page on a website, where the content remains the same until someone updates it.
+
+
+JavaScript:
+
+     1. Interactivity: JavaScript adds life to your web page. It allows you to create interactive features and respond to user actions.
+
+     Example: When we click a button to open a pop-up or a menu, or when we fill out a form, and it checks if email address is correct,
+     that's JavaScript at work.
+
+     2. Dynamic Content: JavaScript can update parts of a webpage without reloading the entire page. It's perfect for displaying changing
+     information, like real-time updates.
+
+     Example: Social media feeds that automatically refresh with new posts without you having to refresh the whole page are powered by JavaScript.
+
+     3. Third-Party Integration: JavaScript connects web page to external services or APIs, such as Google Maps or weather updates.
+
+In simple terms, think of HTML as the structure and static content of a web page, like the frame of a house, while JavaScript is like the electricity
+and plumbing, making it interactive, dynamic, and connected to the outside world. We use HTML to create the page's basic structure, and we use JavaScript
+to make it come alive with interactive features and real-time updates.

@@ -1,0 +1,15 @@
+
+Question 3: List and describe the five primitive data types in JavaScript.
+
+Ans: JavaScript has five primitive data types, which are the most basic building blocks for storing and working with data:
+
+   1. String: This is used for storing text, like words and sentences. String must be enclosed in single or double quotes.
+
+   2. Number: This is used for storing numbers, both whole numbers (integers) and numbers with decimal points (floating-point numbers).
+
+   3. Boolean: This is used for representing two values: "true" and "false". It's often used for making decisions in code (conditional statements).
+
+   4. Undefined: This data type represents a variable that has been declared but hasn't been assigned a value yet.
+
+   5. Null: This data type represents the absence of a value or a deliberate empty value. It's different from "undefined", which usually means a
+      variable hasn't been set yet.
