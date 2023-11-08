@@ -1,0 +1,30 @@
+
+Q2.Describe the usage of the comma operator in JavaScript and provide an example.
+
+Ans:The comma operator in JavaScript allows you to combine multiple expressions into a single expression,
+    evaluating them from left to right. It's often used in situations where you need to perform multiple operations
+    within a single statement.
+
+    The comma operator is most commonly used in for loops and compact variable assignments, where multiple expressions
+    need to be executed sequentially within a single statement. It's a powerful tool for streamlining code while maintaining
+    readability.
+
+   Here's are the usage of comma operator in Javascript:
+
+   1. Compact Variable Declaration and Assignment
+   2. Loop Control with Multiple Expressions
+   3. In a while Loop
+   4. Compact Array Initialization
+   5. Multiple Function Arguments
+
+
+NOTE: "Examples are contained within the code file."
+
+
+
+
+
+
+
+
+
