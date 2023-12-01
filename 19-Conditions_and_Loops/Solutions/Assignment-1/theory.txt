@@ -1,0 +1,24 @@
+Q1. What are conditional statements? Explain conditional statements with syntax and examples.
+
+
+Ans: A conditional statement in programming is a construct that allows a program to make decisions based on whether
+     a specified condition evaluates to true or false. It enables the execution of different code blocks depending on
+     the outcome of the condition. In JavaScript, a conditional statement is a control flow structure that facilitates
+     decision-making in a program. Using constructs such as if, else, and else if, JavaScript programmers can direct the
+     flow of execution based on logical conditions. 
+
+
+Syntax: 
+
+If (condition) {
+   
+    // Code to execute if the condition is true 
+
+} else {
+
+     // Code to execute if the condition is false
+
+}
+
+
+NOTE: "Examples are contained within the code file."
